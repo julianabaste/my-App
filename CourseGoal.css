@@ -1,0 +1,33 @@
+.course-goal {
+  border: 3px solid #96a7e7;
+  padding: 20px;
+  margin: 25px auto;
+  background-color: powderblue;
+  width: 45%;
+  border-radius: 3.5cap;
+  text-align: center ;
+}
+
+h1 {
+  color: darkblue;
+  text-align: center;
+  text-size-adjust: inherit;
+  
+}
+
+h3 {
+  color: darkblue;
+  text-align: center;
+}
+
+.course-goal p {
+  color: #333;
+  font-size: 1.2em;
+  margin: 0;
+  text-align: center ;
+}
+
+
+
+
+
